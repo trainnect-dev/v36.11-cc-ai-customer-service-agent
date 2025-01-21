@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "id": "courses",
+      "name": "Course Information",
+      "keywords": [
+        "workshops",
+        "training",
+        "certification",
+        "schedule",
+        "curriculum",
+        "prerequisites"
+      ]
+    },
+    {
+      "id": "technical",
+      "name": "Technical Support",
+      "keywords": [
+        "lab environment",
+        "azure",
+        "migration",
+        "devops",
+        "cloud",
+        "deployment",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise Support",
+      "keywords": [
+        "corporate training",
+        "customization",
+        "private sessions",
+        "team training",
+        "bulk enrollment"
+      ]
+    },
+    {
+      "id": "billing",
+      "name": "Billing & Enrollment",
+      "keywords": [
+        "payment",
+        "invoice",
+        "enrollment",
+        "registration",
+        "group discount",
+        "enterprise billing"
+      ]
+    },
+    {
+      "id": "legal",
+      "name": "Legal",
+      "keywords": ["data privacy", "policy", "terms of service", "usage policy"]
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "keywords": ["job inquiry", "3rd party company"]
+    },
+    {
+      "id": "technical",
+      "name": "Technical",
+      "keywords": [
+        "guides",
+        "issue",
+        "security",
+        "downtime",
+        "performance",
+        "interface",
+        "system"
+      ]
+    },
+    {
+      "id": "usage",
+      "name": "Usage",
+      "keywords": [
+        "errors",
+        "capabilities",
+        "quality",
+        "techniques",
+        "limits",
+        "availability"
+      ]
+    }
+  ]
+}
