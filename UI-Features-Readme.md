@@ -10,6 +10,8 @@ The application allows toggling the visibility of the left and right sidebars th
 - **Command**: `npm run dev` or `npm run build`
 - **Description**: Both left and right sidebars are included.
 
+![Full Chat UI](images/both-sidebars-a.png)
+
 ```mermaid
 graph TD
     A[User Interface] --> B[Left Sidebar]
@@ -22,6 +24,9 @@ graph TD
 - **Command**: `npm run dev:left` or `npm run build:left`
 - **Description**: Only the left sidebar is included.
 
+![Left Sidebar Only](images/left-sidebar-a.png)
+![Left Sidebar Only](images/left-sidebar-b.png)
+
 ```mermaid
 graph TD
     A[User Interface] --> B[Left Sidebar]
@@ -32,6 +37,9 @@ graph TD
 - **Command**: `npm run dev:right` or `npm run build:right`
 - **Description**: Only the right sidebar is included.
 
+![Right Sidebar Only](images/right-sidebar-a.png)
+![Right Sidebar Only](images/right-sidebar-b.png)
+
 ```mermaid
 graph TD
     A[User Interface] --> B[Right Sidebar]
@@ -41,6 +49,9 @@ graph TD
 ### 4. No Sidebars (Chat Mode)
 - **Command**: `npm run dev:chat` or `npm run build:chat`
 - **Description**: Both sidebars are excluded.
+
+![Full Chat UI](images/full-ui-a.png)
+![Full Chat UI - Hello](images/full-ui-b.png)
 
 ```mermaid
 graph TD
