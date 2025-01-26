@@ -89,6 +89,7 @@ sequenceDiagram
 
 - Node.js 18+ and pnpm
 - Supabase account and project
+- Openai API key
 - Anthropic API key
 
 ## Environment Setup
